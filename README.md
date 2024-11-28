@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aayush Kanholikar</h1>
-# 💫 About Me:
+
+# 💫 Description:
+
 **Anime Vault** is a dynamic and visually stunning anime discovery platform built with modern web technologies like **Next.js**, **Framer Motion**, **TailwindCSS**, and **TypeScript**. Explore, search, and manage your favorite anime seamlessly with a beautiful and smooth user experience.
 
 ## 🌐 Socials:
