@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aayush Kanholikar</h1>
 
-# Check Website  --> [Anime Vault](https://anime-vault-two-kappa.vercel.app/)
+# 🌐 Check Website  --> [Anime Vault](https://anime-vault-two-kappa.vercel.app/)
 
 # 💫 Description:
 
